@@ -1,0 +1,342 @@
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\appsettings.json
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\Quiz_management_system.staticwebassets.runtime.json
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\Quiz_management_system.exe
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\Quiz_management_system.deps.json
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\Quiz_management_system.runtimeconfig.json
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\Quiz_management_system.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\Quiz_management_system.pdb
+C:\Users\user\source\repos\temp_project1\temp_project1\obj\Debug\net6.0\Quiz_management_system.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\temp_project1\temp_project1\obj\Debug\net6.0\Quiz_management_system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\temp_project1\temp_project1\obj\Debug\net6.0\Quiz_management_system.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\temp_project1\temp_project1\obj\Debug\net6.0\Quiz_management_system.AssemblyInfo.cs
+C:\Users\user\source\repos\temp_project1\temp_project1\obj\Debug\net6.0\Quiz_management_system.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\temp_project1\temp_project1\obj\Debug\net6.0\Quiz_management_system.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\temp_project1\temp_project1\obj\Debug\net6.0\Quiz_management_system.RazorAssemblyInfo.cache
+C:\Users\user\source\repos\temp_project1\temp_project1\obj\Debug\net6.0\Quiz_management_system.RazorAssemblyInfo.cs
+C:\Users\user\source\repos\temp_project1\temp_project1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\source\repos\temp_project1\temp_project1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\source\repos\temp_project1\temp_project1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\source\repos\temp_project1\temp_project1\obj\Debug\net6.0\scopedcss\bundle\Quiz_management_system.styles.css
+C:\Users\user\source\repos\temp_project1\temp_project1\obj\Debug\net6.0\scopedcss\projectbundle\Quiz_management_system.bundle.scp.css
+C:\Users\user\source\repos\temp_project1\temp_project1\obj\Debug\net6.0\Quiz_management_system.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\obj\Debug\net6.0\refint\Quiz_management_system.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\obj\Debug\net6.0\Quiz_management_system.pdb
+C:\Users\user\source\repos\temp_project1\temp_project1\obj\Debug\net6.0\Quiz_management_system.genruntimeconfig.cache
+C:\Users\user\source\repos\temp_project1\temp_project1\obj\Debug\net6.0\ref\Quiz_management_system.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\source\repos\temp_project1\temp_project1\obj\Debug\net6.0\Quiz_management_system.csproj.CopyComplete
+C:\Users\user\source\repos\temp_project1\temp_project1\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\appsettings.Development.json
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\appsettings.json
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\Quiz_management_system.staticwebassets.runtime.json
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\Quiz_management_system.exe
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\Quiz_management_system.deps.json
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\Quiz_management_system.runtimeconfig.json
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\Quiz_management_system.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\Quiz_management_system.pdb
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\Azure.Core.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\Azure.Identity.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\obj\Debug\net6.0\Quiz_management_system.csproj.AssemblyReference.cache
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\obj\Debug\net6.0\Quiz_management_system.GeneratedMSBuildEditorConfig.editorconfig
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\obj\Debug\net6.0\Quiz_management_system.AssemblyInfoInputs.cache
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\obj\Debug\net6.0\Quiz_management_system.AssemblyInfo.cs
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\obj\Debug\net6.0\Quiz_management_system.csproj.CoreCompileInputs.cache
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\obj\Debug\net6.0\Quiz_management_system.MvcApplicationPartsAssemblyInfo.cache
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\obj\Debug\net6.0\Quiz_management_system.RazorAssemblyInfo.cache
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\obj\Debug\net6.0\Quiz_management_system.RazorAssemblyInfo.cs
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\obj\Debug\net6.0\staticwebassets.build.json
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\obj\Debug\net6.0\staticwebassets.development.json
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\obj\Debug\net6.0\scopedcss\bundle\Quiz_management_system.styles.css
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\obj\Debug\net6.0\scopedcss\projectbundle\Quiz_management_system.bundle.scp.css
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\obj\Debug\net6.0\Quiz_management_system.csproj.CopyComplete
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\obj\Debug\net6.0\Quiz_management_system.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\obj\Debug\net6.0\refint\Quiz_management_system.dll
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\obj\Debug\net6.0\Quiz_management_system.pdb
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\obj\Debug\net6.0\Quiz_management_system.genruntimeconfig.cache
+D:\BS Computer Science\summer-2022 Dbms\project_Quiz_Management _system\project_Quiz_Management _system\obj\Debug\net6.0\ref\Quiz_management_system.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\appsettings.json
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Quiz_management_system.staticwebassets.runtime.json
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Quiz_management_system.exe
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Quiz_management_system.deps.json
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Quiz_management_system.runtimeconfig.json
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Quiz_management_system.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Quiz_management_system.pdb
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\Quiz_management_system.csproj.AssemblyReference.cache
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\Quiz_management_system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\Quiz_management_system.AssemblyInfoInputs.cache
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\Quiz_management_system.AssemblyInfo.cs
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\Quiz_management_system.csproj.CoreCompileInputs.cache
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\Quiz_management_system.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\Quiz_management_system.RazorAssemblyInfo.cache
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\Quiz_management_system.RazorAssemblyInfo.cs
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\staticwebassets\msbuild.Quiz_management_system.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\staticwebassets\msbuild.build.Quiz_management_system.props
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Quiz_management_system.props
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Quiz_management_system.props
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\scopedcss\bundle\Quiz_management_system.styles.css
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\scopedcss\projectbundle\Quiz_management_system.bundle.scp.css
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\Quiz_man.ED15261C.Up2Date
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\Quiz_management_system.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\refint\Quiz_management_system.dll
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\Quiz_management_system.pdb
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\Quiz_management_system.genruntimeconfig.cache
+C:\Users\Hamza Khan\source\repos\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\ref\Quiz_management_system.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\appsettings.json
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Quiz_management_system.staticwebassets.runtime.json
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Quiz_management_system.exe
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Quiz_management_system.deps.json
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Quiz_management_system.runtimeconfig.json
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Quiz_management_system.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Quiz_management_system.pdb
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\Quiz_management_system.csproj.AssemblyReference.cache
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\Quiz_management_system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\Quiz_management_system.AssemblyInfoInputs.cache
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\Quiz_management_system.AssemblyInfo.cs
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\Quiz_management_system.csproj.CoreCompileInputs.cache
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\Quiz_management_system.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\Quiz_management_system.RazorAssemblyInfo.cache
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\Quiz_management_system.RazorAssemblyInfo.cs
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\staticwebassets\msbuild.Quiz_management_system.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\staticwebassets\msbuild.build.Quiz_management_system.props
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Quiz_management_system.props
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Quiz_management_system.props
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\scopedcss\bundle\Quiz_management_system.styles.css
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\scopedcss\projectbundle\Quiz_management_system.bundle.scp.css
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\Quiz_man.ED15261C.Up2Date
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\Quiz_management_system.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\refint\Quiz_management_system.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\Quiz_management_system.pdb
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\Quiz_management_system.genruntimeconfig.cache
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\ref\Quiz_management_system.dll
+C:\Users\Hamza Khan\Desktop\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\appsettings.json
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Quiz_management_system.staticwebassets.runtime.json
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Quiz_management_system.exe
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Quiz_management_system.deps.json
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Quiz_management_system.runtimeconfig.json
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Quiz_management_system.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Quiz_management_system.pdb
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\Quiz_management_system.csproj.AssemblyReference.cache
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\Quiz_management_system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\Quiz_management_system.AssemblyInfoInputs.cache
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\Quiz_management_system.AssemblyInfo.cs
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\Quiz_management_system.csproj.CoreCompileInputs.cache
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\Quiz_management_system.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\Quiz_management_system.RazorAssemblyInfo.cache
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\Quiz_management_system.RazorAssemblyInfo.cs
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\staticwebassets\msbuild.Quiz_management_system.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\staticwebassets\msbuild.build.Quiz_management_system.props
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Quiz_management_system.props
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Quiz_management_system.props
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\scopedcss\bundle\Quiz_management_system.styles.css
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\scopedcss\projectbundle\Quiz_management_system.bundle.scp.css
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\Quiz_man.ED15261C.Up2Date
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\Quiz_management_system.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\refint\Quiz_management_system.dll
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\Quiz_management_system.pdb
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\Quiz_management_system.genruntimeconfig.cache
+C:\Users\Hamza Khan\Desktop\GIthub\Quiz_management_system\Quiz_management_system\obj\Debug\net6.0\ref\Quiz_management_system.dll

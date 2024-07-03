@@ -1,0 +1,207 @@
+﻿@model IEnumerable<Quiz_management_system.Models.Add_QuestionModel>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>AdminLTE 3 | General Form Elements</title>
+
+    <!-- Google Font: Source Sans Pro -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="../../plugins/fontawesome-free/css/all.min.css">
+    <!-- Theme style -->
+    <link rel="stylesheet" href="~/adminlte.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+</head>
+<body class="hold-transition sidebar-mini">
+    <div class="wrapper">
+        <!-- Navbar -->
+        @Html.Partial("~/Views/common/navbar.cshtml")
+        <!-- /.navbar -->
+        <!-- Main Sidebar Container -->
+        @Html.Partial("~/Views/common/sidebar.cshtml")
+
+        <!-- Content Wrapper. Contains page content -->
+        <div class="content-wrapper">
+            <!-- Content Header (Page header) -->
+            <section class="content-header">
+                <div class="container-fluid">
+                    <div class="row mb-2">
+                    </div>
+                </div><!-- /.container-fluid -->
+            </section>
+
+            <!-- Main content -->
+            <section class="content">
+                <div class="container-fluid">
+                    <div class="row">
+                        <!-- left column -->
+                        <div class="col-md-12">
+                            <!-- general form elements -->
+                            <div class="card card-primary">
+                                <div class="card-header" style="background: #f35587;">
+                                    <h3 class="card-title" style="font-size:1.7rem; color: white">Add Question</h3>
+                                </div>
+
+                                <!-- Success message for Add Question -->
+                                @if (TempData["SuccessMessage"] != null)
+                                {
+                                    <div class="alert alert-success text-center" role="alert">
+                                        @TempData["SuccessMessage"]
+                                    </div>
+                                }
+
+                                <!-- Success message for Fetch Questions -->
+                                @if (TempData["FetchMessage"] != null)
+                                {
+                                    <div class="alert alert-success text-center" role="alert">
+                                        @TempData["FetchMessage"]
+                                    </div>
+                                }
+
+                                <!-- Add Question Form -->
+                                <form id="addQuestionForm" action="Add_Question" method="post" onsubmit="return validateAddQuestionForm()">
+                                    <div class="card-body">
+                                        <div class="form-group row">
+                                            <label class="col-sm-1 col-form-label">Select Subject</label>
+                                            <select name="course_id" class="custom-select col-sm-11" placeholder="select">
+                                                <option selected disabled>---Select Subject</option>
+                                                @foreach (var item in Model)
+                                                {
+                                                    <option value="@item.course_id">@Html.DisplayFor(modelItem => item.course_name)</option>
+                                                }
+                                            </select>
+                                        </div>
+                                        <div class="form-group row">
+                                            <label class="col-sm-1 col-form-label">Write Question</label>
+                                            <div class="col-sm-11">
+                                                <textarea name="question" class="form-control"></textarea>
+                                            </div>
+                                        </div>
+                                        <div class="form-group row">
+                                            <label class="col-sm-1 col-form-label">Option A</label>
+                                            <div class="col-sm-4">
+                                                <input type="text" name="option1" class="form-control" placeholder="Write here">
+                                            </div>
+                                            <label class="col-sm-1 col-form-label text-right">Option B</label>
+                                            <div class="col-sm-4">
+                                                <input type="text" name="option2" class="form-control" placeholder="Write here">
+                                            </div>
+                                        </div>
+                                        <div class="form-group row">
+                                            <label class="col-sm-1 col-form-label">Option C</label>
+                                            <div class="col-sm-4">
+                                                <input type="text" name="option3" class="form-control" placeholder="Write here">
+                                            </div>
+                                            <label class="col-sm-1 col-form-label text-right">Option D</label>
+                                            <div class="col-sm-4">
+                                                <input type="text" name="option4" class="form-control" placeholder="Write here">
+                                            </div>
+                                        </div>
+                                        <div class="form-group row">
+                                            <label class="col-sm-1 col-form-label">Select Answer</label>
+                                            <div class="col-sm-4">
+                                                <select name="answer" class="form-control">
+                                                    <option selected disabled>---Select right answer</option>
+                                                    <option value="A">A</option>
+                                                    <option value="B">B</option>
+                                                    <option value="C">C</option>
+                                                    <option value="D">D</option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- /.card-body -->
+                                    <div class="card-footer text-center">
+                                        <button type="submit" class="btn btn-warning" style="width:118px; background: #f35587; color:white;">ADD</button>
+                                        <button type="reset" class="btn btn-default float-right">Cancel</button>
+                                    </div>
+                                    <!-- /.card-footer -->
+                                </form>
+
+                                <!-- Fetch Questions Form -->
+                                <form id="fetchQuestionsForm" action="Add_Question1" method="post" onsubmit="return validateFetchQuestionsForm()">
+                                    <div class="card-body">
+                                        <div class="form-group row">
+                                            <label class="col-sm-1 col-form-label">Select Subject</label>
+                                            <select name="course_id" class="custom-select col-sm-11" placeholder="select">
+                                                <option selected disabled>---Select Subject</option>
+                                                @foreach (var item in Model)
+                                                {
+                                                    <option value="@item.course_id">@Html.DisplayFor(modelItem => item.course_name)</option>
+                                                }
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <!-- /.card-body -->
+                                    <div class="card-footer text-center">
+                                        <button type="submit" class="btn btn-warning" style="width:118px; background: #f35587; color:white;">Fetch</button>
+                                    </div>
+                                    <!-- /.card-footer -->
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- /.container-fluid -->
+            </section>
+            <!-- /.content -->
+        </div>
+        <!-- /.content-wrapper -->
+        <!-- Control Sidebar -->
+        <aside class="control-sidebar control-sidebar-dark">
+            <!-- Control sidebar content goes here -->
+        </aside>
+        <!-- /.control-sidebar -->
+    </div>
+    <!-- ./wrapper -->
+    <!-- jQuery -->
+    <script src="../../plugins/jquery/jquery.min.js"></script>
+    <!-- Bootstrap 4 -->
+    <script src="../../plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- bs-custom-file-input -->
+    <script src="../../plugins/bs-custom-file-input/bs-custom-file-input.min.js"></script>
+    <!-- AdminLTE App -->
+    <script src="../../dist/js/adminlte.min.js"></script>
+    <!-- AdminLTE for demo purposes -->
+    <script src="../../dist/js/demo.js"></script>
+    <!-- Page specific script -->
+    <script>
+        $(function () {
+            bsCustomFileInput.init();
+        });
+
+        function validateAddQuestionForm() {
+            const form = document.forms["addQuestionForm"];
+            const course_id = form["course_id"].value;
+            const question = form["question"].value.trim();
+            const option1 = form["option1"].value.trim();
+            const option2 = form["option2"].value.trim();
+            const option3 = form["option3"].value.trim();
+            const option4 = form["option4"].value.trim();
+            const answer = form["answer"].value;
+
+            if (course_id === "---Select Subject" || question === "" || option1 === "" || option2 === "" || option3 === "" || option4 === "" || answer === "---Select right answer") {
+                alert("All fields must be filled out");
+                return false;
+            }
+
+            alert("Question successfully inserted");
+            return true;
+        }
+
+        function validateFetchQuestionsForm() {
+            const form = document.forms["fetchQuestionsForm"];
+            const course_id = form["course_id"].value;
+
+            if (course_id === "---Select Subject") {
+                alert("Please select a subject");
+                return false;
+            }
+
+            alert("Fetch Questions");
+            return true;
+        }
+    </script>
+</body>
+</html>

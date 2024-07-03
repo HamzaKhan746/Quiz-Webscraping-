@@ -1,0 +1,440 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|c:\\users\\hamza khan\\desktop\\github\\quiz_management_system\\quiz_management_system\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|solutionrelative:quiz_management_system\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|c:\\users\\hamza khan\\desktop\\github\\quiz_management_system\\quiz_management_system\\views\\login\\admin_dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|solutionrelative:quiz_management_system\\views\\login\\admin_dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|c:\\users\\hamza khan\\desktop\\github\\quiz_management_system\\quiz_management_system\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|solutionrelative:quiz_management_system\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|c:\\users\\hamza khan\\desktop\\github\\quiz_management_system\\quiz_management_system\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|solutionrelative:quiz_management_system\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|c:\\users\\hamza khan\\desktop\\github\\quiz_management_system\\quiz_management_system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|solutionrelative:quiz_management_system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|c:\\users\\hamza khan\\desktop\\github\\quiz_management_system\\quiz_management_system\\models\\addcategorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|solutionrelative:quiz_management_system\\models\\addcategorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|c:\\users\\hamza khan\\desktop\\github\\quiz_management_system\\quiz_management_system\\models\\add_questionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|solutionrelative:quiz_management_system\\models\\add_questionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|c:\\users\\hamza khan\\desktop\\github\\quiz_management_system\\quiz_management_system\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|solutionrelative:quiz_management_system\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|c:\\users\\hamza khan\\desktop\\github\\quiz_management_system\\quiz_management_system\\models\\signmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|solutionrelative:quiz_management_system\\models\\signmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|c:\\users\\hamza khan\\desktop\\github\\quiz_management_system\\quiz_management_system\\models\\view_questionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|solutionrelative:quiz_management_system\\models\\view_questionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|c:\\users\\hamza khan\\desktop\\github\\quiz_management_system\\quiz_management_system\\views\\login\\add_question.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|solutionrelative:quiz_management_system\\views\\login\\add_question.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|c:\\users\\hamza khan\\desktop\\github\\quiz_management_system\\quiz_management_system\\views\\login\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|solutionrelative:quiz_management_system\\views\\login\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|c:\\users\\hamza khan\\desktop\\github\\quiz_management_system\\quiz_management_system\\views\\login\\edit_viewquestion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|solutionrelative:quiz_management_system\\views\\login\\edit_viewquestion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|c:\\users\\hamza khan\\desktop\\github\\quiz_management_system\\quiz_management_system\\views\\login\\viewcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|solutionrelative:quiz_management_system\\views\\login\\viewcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|c:\\users\\hamza khan\\desktop\\github\\quiz_management_system\\quiz_management_system\\views\\login\\v_question.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|solutionrelative:quiz_management_system\\views\\login\\v_question.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|c:\\users\\hamza khan\\desktop\\github\\quiz_management_system\\quiz_management_system\\views\\login\\sign.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|solutionrelative:quiz_management_system\\views\\login\\sign.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|c:\\users\\hamza khan\\desktop\\github\\quiz_management_system\\quiz_management_system\\views\\common\\navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|solutionrelative:quiz_management_system\\views\\common\\navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|c:\\users\\hamza khan\\desktop\\github\\quiz_management_system\\quiz_management_system\\views\\common\\sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|solutionrelative:quiz_management_system\\views\\common\\sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|c:\\users\\hamza khan\\desktop\\github\\quiz_management_system\\quiz_management_system\\models\\website5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|solutionrelative:quiz_management_system\\models\\website5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|c:\\users\\hamza khan\\desktop\\github\\quiz_management_system\\quiz_management_system\\models\\website3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|solutionrelative:quiz_management_system\\models\\website3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|c:\\users\\hamza khan\\desktop\\github\\quiz_management_system\\quiz_management_system\\models\\website1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|solutionrelative:quiz_management_system\\models\\website1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|c:\\users\\hamza khan\\desktop\\github\\quiz_management_system\\quiz_management_system\\models\\website4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|solutionrelative:quiz_management_system\\models\\website4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|c:\\users\\hamza khan\\desktop\\github\\quiz_management_system\\quiz_management_system\\models\\website2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|solutionrelative:quiz_management_system\\models\\website2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|c:\\users\\hamza khan\\desktop\\github\\quiz_management_system\\quiz_management_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|solutionrelative:quiz_management_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|c:\\users\\hamza khan\\desktop\\github\\quiz_management_system\\quiz_management_system\\quiz_management_system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|solutionrelative:quiz_management_system\\quiz_management_system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|c:\\users\\hamza khan\\desktop\\github\\quiz_management_system\\quiz_management_system\\quiz_management_system.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{5CF9D416-95F7-4783-8608-C49BE825A9D4}|Quiz_management_system\\Quiz_management_system.csproj|solutionrelative:quiz_management_system\\quiz_management_system.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "loginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Models\\loginModel.cs",
+              "RelativeDocumentMoniker": "Quiz_management_system\\Models\\loginModel.cs",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Models\\loginModel.cs",
+              "RelativeToolTip": "Quiz_management_system\\Models\\loginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:20:01.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Quiz_management_system\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Quiz_management_system\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:24:50.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddcategoryModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Models\\AddcategoryModel.cs",
+              "RelativeDocumentMoniker": "Quiz_management_system\\Models\\AddcategoryModel.cs",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Models\\AddcategoryModel.cs",
+              "RelativeToolTip": "Quiz_management_system\\Models\\AddcategoryModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:57:13.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Add_QuestionModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Models\\Add_QuestionModel.cs",
+              "RelativeDocumentMoniker": "Quiz_management_system\\Models\\Add_QuestionModel.cs",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Models\\Add_QuestionModel.cs",
+              "RelativeToolTip": "Quiz_management_system\\Models\\Add_QuestionModel.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA3wAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:38:33.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Quiz_management_system\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Quiz_management_system\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:55:43.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin_dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Views\\Login\\Admin_dashboard.cshtml",
+              "RelativeDocumentMoniker": "Quiz_management_system\\Views\\Login\\Admin_dashboard.cshtml",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Views\\Login\\Admin_dashboard.cshtml",
+              "RelativeToolTip": "Quiz_management_system\\Views\\Login\\Admin_dashboard.cshtml",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAACoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T20:03:39.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "Quiz_management_system\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "Quiz_management_system\\Views\\Login\\Login.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T21:28:18.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "signModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Models\\signModel.cs",
+              "RelativeDocumentMoniker": "Quiz_management_system\\Models\\signModel.cs",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Models\\signModel.cs",
+              "RelativeToolTip": "Quiz_management_system\\Models\\signModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:25:04.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "view_questionModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Models\\view_questionModel.cs",
+              "RelativeDocumentMoniker": "Quiz_management_system\\Models\\view_questionModel.cs",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Models\\view_questionModel.cs",
+              "RelativeToolTip": "Quiz_management_system\\Models\\view_questionModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:24:55.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "loginController.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Controllers\\loginController.cs",
+              "RelativeDocumentMoniker": "Quiz_management_system\\Controllers\\loginController.cs",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Controllers\\loginController.cs",
+              "RelativeToolTip": "Quiz_management_system\\Controllers\\loginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:55:49.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Add_Question.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Views\\Login\\Add_Question.cshtml",
+              "RelativeDocumentMoniker": "Quiz_management_system\\Views\\Login\\Add_Question.cshtml",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Views\\Login\\Add_Question.cshtml",
+              "RelativeToolTip": "Quiz_management_system\\Views\\Login\\Add_Question.cshtml",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T20:08:11.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "viewcategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Views\\Login\\viewcategory.cshtml",
+              "RelativeDocumentMoniker": "Quiz_management_system\\Views\\Login\\viewcategory.cshtml",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Views\\Login\\viewcategory.cshtml",
+              "RelativeToolTip": "Quiz_management_system\\Views\\Login\\viewcategory.cshtml",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T22:02:17.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit_viewquestion.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Views\\Login\\Edit_viewquestion.cshtml",
+              "RelativeDocumentMoniker": "Quiz_management_system\\Views\\Login\\Edit_viewquestion.cshtml",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Views\\Login\\Edit_viewquestion.cshtml",
+              "RelativeToolTip": "Quiz_management_system\\Views\\Login\\Edit_viewquestion.cshtml",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAAI4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T05:31:22.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Views\\Login\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Quiz_management_system\\Views\\Login\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Views\\Login\\Edit.cshtml",
+              "RelativeToolTip": "Quiz_management_system\\Views\\Login\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T05:35:03.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "v_Question.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Views\\Login\\v_Question.cshtml",
+              "RelativeDocumentMoniker": "Quiz_management_system\\Views\\Login\\v_Question.cshtml",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Views\\Login\\v_Question.cshtml",
+              "RelativeToolTip": "Quiz_management_system\\Views\\Login\\v_Question.cshtml",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAkwIsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T22:02:14.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "sign.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Views\\Login\\sign.cshtml",
+              "RelativeDocumentMoniker": "Quiz_management_system\\Views\\Login\\sign.cshtml",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Views\\Login\\sign.cshtml",
+              "RelativeToolTip": "Quiz_management_system\\Views\\Login\\sign.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T21:00:59.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "navbar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Views\\common\\navbar.cshtml",
+              "RelativeDocumentMoniker": "Quiz_management_system\\Views\\common\\navbar.cshtml",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Views\\common\\navbar.cshtml",
+              "RelativeToolTip": "Quiz_management_system\\Views\\common\\navbar.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T19:33:00.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "sidebar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Views\\common\\sidebar.cshtml",
+              "RelativeDocumentMoniker": "Quiz_management_system\\Views\\common\\sidebar.cshtml",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Views\\common\\sidebar.cshtml",
+              "RelativeToolTip": "Quiz_management_system\\Views\\common\\sidebar.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T19:33:06.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Website5.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Models\\Website5.cs",
+              "RelativeDocumentMoniker": "Quiz_management_system\\Models\\Website5.cs",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Models\\Website5.cs",
+              "RelativeToolTip": "Quiz_management_system\\Models\\Website5.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwCYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:22:09.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Website3.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Models\\Website3.cs",
+              "RelativeDocumentMoniker": "Quiz_management_system\\Models\\Website3.cs",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Models\\Website3.cs",
+              "RelativeToolTip": "Quiz_management_system\\Models\\Website3.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAQwEsAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:28:53.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Website1.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Models\\Website1.cs",
+              "RelativeDocumentMoniker": "Quiz_management_system\\Models\\Website1.cs",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Models\\Website1.cs",
+              "RelativeToolTip": "Quiz_management_system\\Models\\Website1.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAA9wFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:22:17.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Website2.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Models\\Website2.cs",
+              "RelativeDocumentMoniker": "Quiz_management_system\\Models\\Website2.cs",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Models\\Website2.cs",
+              "RelativeToolTip": "Quiz_management_system\\Models\\Website2.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAQwEsAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:27:39.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Website4.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Models\\Website4.cs",
+              "RelativeDocumentMoniker": "Quiz_management_system\\Models\\Website4.cs",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Models\\Website4.cs",
+              "RelativeToolTip": "Quiz_management_system\\Models\\Website4.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAQwGkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:28:55.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Program.cs",
+              "RelativeDocumentMoniker": "Quiz_management_system\\Program.cs",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Program.cs",
+              "RelativeToolTip": "Quiz_management_system\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:15:43.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Quiz_management_system.csproj",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Quiz_management_system.csproj",
+              "RelativeDocumentMoniker": "Quiz_management_system\\Quiz_management_system.csproj",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Quiz_management_system.csproj",
+              "RelativeToolTip": "Quiz_management_system\\Quiz_management_system.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-12T18:57:23.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Quiz_management_system",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Quiz_management_system.csproj",
+              "RelativeDocumentMoniker": "Quiz_management_system\\Quiz_management_system.csproj",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\Quiz_management_system.csproj",
+              "RelativeToolTip": "Quiz_management_system\\Quiz_management_system.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-12T18:55:01.351Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

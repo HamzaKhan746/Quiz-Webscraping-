@@ -1,0 +1,109 @@
+﻿@model Quiz_management_system.Models.loginModel
+@using System.Data
+@using System.Data.SqlClient
+@{
+ Layout = null;
+}
+<!doctype html>
+<html lang="en">
+  <head>
+  	<title>Login </title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<link href="https://fonts
+googleapis.com/css?family=Lato:300,400,700,900&display=swap" rel="stylesheet">
+
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	
+	<link rel="stylesheet" href="~/Lstyle.css" />
+
+	</head>
+	<body class="bg">
+	
+	<section class="ftco-section">
+		
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-md-6 text-center mb-5">
+					<h2 class="heading-section">Quiz Management System</h2>
+				</div>
+			</div>
+			<div class="row justify-content-center">
+				<div class="col-md-12 col-lg-10">
+					<div class="wrap d-md-flex">
+						<div class="text-wrap p-4 p-lg-5 text-center d-flex align-items-center order-md-last" style="background-color: #343a40">
+							<div class="text w-100">
+								<h2>Welcome to login</h2>
+								<p>Don't have an account?</p>
+								<a class="nav-link" style="color:#f35588; border-radius: 25px; border: 1px solid white; background-color:white; font-size: 20px" asp-area="" asp-controller="login" asp-action="sign">Register Now</a>
+							</div>
+			      </div>
+						<div class="login-wrap p-4 p-lg-5">
+			      	<div class="d-flex">
+			      		<div class="w-100">
+			      			<h3 class="mb-4">Login</h3>
+			      		</div>
+			      	</div>
+					  @using (Html.BeginForm("Login" , "login", FormMethod.Post))
+					{
+					@Html.AntiForgeryToken()
+					  <form action="Login" method="post">
+					  <div>
+						  <p>Select User Type</p>
+										<select id="userType" name="user_select" class="select" required>
+							<option selected disabled>---Select Option</option>
+							<option value="Admin">Admin</option>
+						</select>
+					  </div>
+									<div id="userTypeValidation" style="color: red;"></div>
+
+			      		<div class="form-group mb-3">
+			      			<label class="label" for="name">Username</label>
+			      			<input type="text" name = "user_name" class="form-control" placeholder="Username" required>
+							  @Html.ValidationMessageFor(model => model.user_name)  
+							  
+						
+			      		</div>
+		            <div class="form-group mb-3">
+		            	<label class="label" for="password">Password</label>
+		              <input type="password" name = "password" class="form-control" placeholder="Password" required>
+					   
+		            </div>
+		            <div class="form-group">
+		            	<button type="submit" class="form-control btn btn-primary submit px-3">Sign In</button>
+		            </div>
+		          </form>
+				  }
+				<div style=" color: deeppink ; text-align:center;padding:20px;font-family:Britannic;font-size: 27px;" >
+					@Html.ViewData["Message"]
+				</div>
+		        </div>
+		      </div>
+				</div>
+			</div>
+		</div>
+	</section>
+	
+	
+	<script src="js/jquery.min.js"></script>
+  <script src="js/popper.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/main.js"></script>
+	<script>
+		document.querySelector('form').addEventListener('submit', function (event) {
+			const userType = document.getElementById('userType');
+			const userTypeValidation = document.getElementById('userTypeValidation');
+
+			if (userType.value === '---Select Option') {
+				userTypeValidation.textContent = 'Please select a user type.';
+				event.preventDefault(); // Prevent form submission
+			} else {
+				userTypeValidation.textContent = ''; // Clear any previous error message
+			}
+		});
+	</script>
+
+	</body>
+</html>
+

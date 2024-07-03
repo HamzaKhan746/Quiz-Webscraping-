@@ -1,0 +1,373 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Quiz_management_system.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Quiz_management_system.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\Lstyle.css",
+      "PackagePath": "staticwebassets\\Lstyle.css"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\aa.jpg",
+      "PackagePath": "staticwebassets\\aa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\adminlte.css",
+      "PackagePath": "staticwebassets\\adminlte.css"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\adminlte.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\adminlte.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\adminlte.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\adminltee.css",
+      "PackagePath": "staticwebassets\\adminltee.css"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\adminltee.css.map",
+      "PackagePath": "staticwebassets\\adminltee.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\adminltee.min.css",
+      "PackagePath": "staticwebassets\\adminltee.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\adminltee.min.css.map",
+      "PackagePath": "staticwebassets\\adminltee.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\bb.png",
+      "PackagePath": "staticwebassets\\bb.png"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\cate.jpg",
+      "PackagePath": "staticwebassets\\cate.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\cc.jpg",
+      "PackagePath": "staticwebassets\\cc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\d.jpg",
+      "PackagePath": "staticwebassets\\d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\dd.jpg",
+      "PackagePath": "staticwebassets\\dd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\ii.jpg",
+      "PackagePath": "staticwebassets\\ii.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\ins.png",
+      "PackagePath": "staticwebassets\\ins.png"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\mm.jpg",
+      "PackagePath": "staticwebassets\\mm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\oo.jpg",
+      "PackagePath": "staticwebassets\\oo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\pp.jpg",
+      "PackagePath": "staticwebassets\\pp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\q.jpg",
+      "PackagePath": "staticwebassets\\q.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\sada.jpg",
+      "PackagePath": "staticwebassets\\sada.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\sign_style.css",
+      "PackagePath": "staticwebassets\\sign_style.css"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\ss (3).jpg",
+      "PackagePath": "staticwebassets\\ss (3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\ss.jpg",
+      "PackagePath": "staticwebassets\\ss.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\student.css",
+      "PackagePath": "staticwebassets\\student.css"
+    },
+    {
+      "Id": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\Quiz_management_system\\Quiz_management_system\\wwwroot\\we.png",
+      "PackagePath": "staticwebassets\\we.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Quiz_management_system.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Quiz_management_system.props",
+      "PackagePath": "build\\Quiz_management_system.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Quiz_management_system.props",
+      "PackagePath": "buildMultiTargeting\\Quiz_management_system.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Quiz_management_system.props",
+      "PackagePath": "buildTransitive\\Quiz_management_system.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

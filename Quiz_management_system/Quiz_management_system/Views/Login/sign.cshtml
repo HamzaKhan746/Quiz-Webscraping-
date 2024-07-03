@@ -1,0 +1,101 @@
+﻿@model Quiz_management_system.Models.signModel
+
+<!doctype html>
+<html lang="en">
+  <head>
+  	<title>Login 08</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap" rel="stylesheet">
+
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	
+	<link rel="stylesheet" href="~/sign_style.css">
+
+	</head>
+	<body class="bg">
+		
+	<section class="ftco-section">
+		<div class="container">
+			<div class="row justify-content-center">
+				
+			</div>
+			<div class="row justify-content-center">
+				<div class="col-md-6 col-lg-5">
+					<div class="login-wrap p-4 p-md-5">
+		      	<div class="icon d-flex align-items-center justify-content-center">
+		      		<span class="fa fa-user-o"></span>
+		      	</div>
+		      	<h3 class="text-center mb-4" style="font-family:Algerian;">Register</h3>
+				<form id="signupForm" action="sign" method="post" onsubmit="return validateForm()">
+
+		      		<div class="form-group">
+						 <label class="label" for="name">Username</label>
+		      			<input type="text" id ="txtUsername" name = "user_name" class="form-control rounded-left" placeholder="Username" required>
+		      		</div>
+					  <div class="form-group">
+						  <label class="label" for="name">Last-Name</label>
+		      			<input type="text" id ="txtlastname" name = "last_name"  class="form-control rounded-left" placeholder="LastName" required>
+		      		</div>
+					  <div class="form-group">
+						<label class="label" for="name">E-mail</label>
+		      			<input type="text" id ="txtemail" name="email"  class="form-control rounded-left" placeholder="E-mail" required>
+		      		</div>
+					  <label class="label" for="name">Password</label>
+	            <div class="form-group d-flex">
+					<input type="password" id ="txtpass" name="password"  class="form-control rounded-left" placeholder="Password" required>
+	            </div>
+
+	            <div class="form-group">
+
+	            	<button  type="submit" class="btn btn-primary rounded submit p-3 px-5" id="btnSaveContact">Sign Up</button>
+	            </div>
+	          </form>
+	        </div>
+				</div>
+			</div>
+		</div>
+		
+	</section>
+		<div style="background-color:#f35588; color:white; text-align:center;padding:20px;font-family:Britannic" >
+	@Html.ViewData["Message"]
+	</div>
+	<script src="js/jquery.min.js"></script>
+  <script src="js/popper.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/main.js"></script>
+  <script>
+    // Function to validate the form fields
+    function validateForm() {
+        var username = document.getElementById('txtUsername').value;
+        var lastname = document.getElementById('txtlastname').value;
+        var email = document.getElementById('txtemail').value;
+        var password = document.getElementById('txtpass').value;
+
+        // Check if any field is empty
+        if (username === '' || lastname === '' || email === '' || password === '') {
+            alert('Please fill in all fields.');
+            return false;
+        }     
+
+        // Validate password length
+        if (password.length < 6) {
+            alert('Password must be at least 6 characters long.');
+            return false;
+        }
+
+        // If all validations pass, show success message and submit the form
+        alert('Sign up successful!');
+        return true;
+    }
+
+    // Attach the validation function to the form submit event
+    document.getElementById('signupForm').onsubmit = function() {
+        return validateForm();
+    };
+</script>
+
+	</body>
+</html>
+
